@@ -1,4 +1,3 @@
-package lista4;
 
 import java.util.LinkedList;
 
